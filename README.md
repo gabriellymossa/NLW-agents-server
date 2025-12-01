@@ -1,6 +1,8 @@
-# Task List React
+# NLW Agents
 
 > Projeto de estudo desenvolvido e aprendido durante o evento NLW Agents da Rocketseat.
+
+Observação: Esse era um projeto Fullstack, porém Infelizmente acabei perdendo o frontend desse projeto
 
 Resumo
 - API backend que organiza "salas" (rooms), aceita upload de áudios, gera transcrições e embeddings, e responde perguntas usando similaridade vetorial e o modelo Gemini.
@@ -78,3 +80,4 @@ Arquivos importantes (leitura recomendada)
 - [src/db/schema/audio-chunks.ts](src/db/schema/audio-chunks.ts)
 - [package.json](package.json)
 - [docker-compose.yml](docker-compose.yml)
+
