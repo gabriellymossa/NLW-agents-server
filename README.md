@@ -2,7 +2,7 @@
 
 > Projeto de estudo desenvolvido e aprendido durante o evento NLW Agents da Rocketseat.
 
-Observação: Esse era um projeto Fullstack, porém Infelizmente acabei perdendo o frontend desse projeto
+Tratava-se de um projeto Fullstack; contudo, infelizmente perdi o frontend.
 
 Resumo
 - API backend que organiza "salas" (rooms), aceita upload de áudios, gera transcrições e embeddings, e responde perguntas usando similaridade vetorial e o modelo Gemini.
